@@ -8,7 +8,8 @@
 * [Fontes Consultadas](#fontes-consultadas)
 * [Autores](#autores)
  
-# form-login
+# Projeto - Formulario de Login
+![](tela.png)
  
 ## Descrição
 - Este projeto é um formulário de contato básico em HTML, criado como parte de um exercício de prática. Ele permite que os usuários preencham informações de login através do formulário. É uma ótima maneira de aprender os conceitos básicos de criação de formulários em HTML.
@@ -29,7 +30,7 @@
 - MDN_
  
 ## Fontes Consultadas
-- 
+- https://getbootstrap.com/
  
 ## Autores
-- Karen Novaski
+- Karen Novaski [https://github.com/karenovaski/form-login]
